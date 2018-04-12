@@ -1,0 +1,9 @@
+C:\SVN\Rhinoceros_Master\Corbel_design\Corbel_design\obj\Debug32\Corbel_design.csprojResolveAssemblyReference.cache
+C:\SVN\Rhinoceros_Master\Corbel_design\Corbel_design\obj\Debug32\Corbel_design.FormDetailedResults.resources
+C:\SVN\Rhinoceros_Master\Corbel_design\Corbel_design\obj\Debug32\Corbel_design.FormMain.resources
+C:\SVN\Rhinoceros_Master\Corbel_design\Corbel_design\obj\Debug32\Corbel_design.Properties.Resources.resources
+C:\SVN\Rhinoceros_Master\Corbel_design\Corbel_design\obj\Debug32\Corbel_design.csproj.GenerateResource.Cache
+C:\SVN\Rhinoceros_Master\Corbel_design\Corbel_design\bin\Corbel_design.dll
+C:\SVN\Rhinoceros_Master\Corbel_design\Corbel_design\bin\Corbel_design.pdb
+C:\SVN\Rhinoceros_Master\Corbel_design\Corbel_design\obj\Debug32\Corbel_design.dll
+C:\SVN\Rhinoceros_Master\Corbel_design\Corbel_design\obj\Debug32\Corbel_design.pdb
